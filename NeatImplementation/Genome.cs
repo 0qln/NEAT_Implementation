@@ -1,9 +1,7 @@
-using NeuralNetworks_LIB;
 using System.Collections;
 using System.Collections.Generic;
 using System;
 using System.Data;
-using UnityEngine.XR;
 using System.Runtime.CompilerServices;
 
 namespace NeatImplementation {
