@@ -6,13 +6,13 @@ using System.Data;
 using UnityEngine.XR;
 using System.Runtime.CompilerServices;
 
-namespace NeuralEvolution_of_AugmentingTopologies {
+namespace NeatImplementation {
     /// <summary>
     /// An extension to the List class, which contains useful methods
     /// </summary>
     public static class ListHelper {
         /// <summary>
-        /// Uses Fisher–Yates shuffle to randomize the list.
+        /// Uses Fisherï¿½Yates shuffle to randomize the list.
         /// </summary>
         /// <typeparam name="T"></typeparam>
         /// <param name="list"></param>

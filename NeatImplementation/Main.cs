@@ -1,5 +1,5 @@
 ﻿using DebugLibrary;
 
-namespace NeatImplementation {
+namespace Testing {
     
 }

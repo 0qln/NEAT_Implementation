@@ -7,7 +7,7 @@ using UnityEngine.XR;
 using System.Runtime.CompilerServices;
 
 
-namespace NeuralEvolution_of_AugmentingTopologies {
+namespace NeatImplementation {
 
 
     /// <summary>
