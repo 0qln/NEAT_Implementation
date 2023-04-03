@@ -1,0 +1,17 @@
+D:\Programmmieren\Github\Projects\NEAT_Implementation\NeatImplementation\obj\Debug\net7.0\NeatImplementation.csproj.AssemblyReference.cache
+D:\Programmmieren\Github\Projects\NEAT_Implementation\NeatImplementation\obj\Debug\net7.0\NeatImplementation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmmieren\Github\Projects\NEAT_Implementation\NeatImplementation\obj\Debug\net7.0\NeatImplementation.AssemblyInfoInputs.cache
+D:\Programmmieren\Github\Projects\NEAT_Implementation\NeatImplementation\obj\Debug\net7.0\NeatImplementation.AssemblyInfo.cs
+D:\Programmmieren\Github\Projects\NEAT_Implementation\NeatImplementation\obj\Debug\net7.0\NeatImplementation.csproj.CoreCompileInputs.cache
+D:\Programmmieren\Github\Projects\NEAT_Implementation\NeatImplementation\bin\Debug\net7.0\NeatImplementation.deps.json
+D:\Programmmieren\Github\Projects\NEAT_Implementation\NeatImplementation\bin\Debug\net7.0\NeatImplementation.dll
+D:\Programmmieren\Github\Projects\NEAT_Implementation\NeatImplementation\bin\Debug\net7.0\NeatImplementation.pdb
+D:\Programmmieren\Github\Projects\NEAT_Implementation\NeatImplementation\bin\Debug\net7.0\DebugLibrary.dll
+D:\Programmmieren\Github\Projects\NEAT_Implementation\NeatImplementation\bin\Debug\net7.0\CommandLibrary.dll
+D:\Programmmieren\Github\Projects\NEAT_Implementation\NeatImplementation\bin\Debug\net7.0\DebugLibrary.pdb
+D:\Programmmieren\Github\Projects\NEAT_Implementation\NeatImplementation\bin\Debug\net7.0\CommandLibrary.pdb
+D:\Programmmieren\Github\Projects\NEAT_Implementation\NeatImplementation\obj\Debug\net7.0\NeatImplementation.csproj.CopyComplete
+D:\Programmmieren\Github\Projects\NEAT_Implementation\NeatImplementation\obj\Debug\net7.0\NeatImplementation.dll
+D:\Programmmieren\Github\Projects\NEAT_Implementation\NeatImplementation\obj\Debug\net7.0\refint\NeatImplementation.dll
+D:\Programmmieren\Github\Projects\NEAT_Implementation\NeatImplementation\obj\Debug\net7.0\NeatImplementation.pdb
+D:\Programmmieren\Github\Projects\NEAT_Implementation\NeatImplementation\obj\Debug\net7.0\ref\NeatImplementation.dll

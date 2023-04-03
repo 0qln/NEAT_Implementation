@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "7PkEDqNgoeP4vzKpjS8nelhIAlTaNTdGwbeG7x1JWfkJIwQkm+TeW8lM52LeSqEyIRFa6/hLbHJLKWYh359hhw==",
+  "dgSpecHash": "JBnPLlEdji/9u8KPEn5EzVu/N5pt/YMRJURyS8Y49QLBa59MmulmEqvyVbM9M3PPzSPX/lOfnxNLWotlMmVCww==",
   "success": true,
   "projectFilePath": "D:\\Programmmieren\\Github\\Projects\\NEAT_Implementation\\NeatImplementation\\NeatImplementation.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.2\\microsoft.netcore.app.ref.7.0.2.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.2\\microsoft.windowsdesktop.app.ref.7.0.2.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.2\\microsoft.aspnetcore.app.ref.7.0.2.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -10,6 +10,7 @@
      <Reference Include="DebugLibrary">
        <HintPath>D:\Programmmieren\Github\Projects\DebugLibrary\DebugLibrary\bin\Debug\net7.0\DebugLibrary.dll</HintPath>
      </Reference>
+
   </ItemGroup>
 
 </Project>

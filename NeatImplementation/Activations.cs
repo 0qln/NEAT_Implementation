@@ -1,7 +1,14 @@
-namespace Utilities {
-    public class Activations
+using System.Collections;
+using System.Collections.Generic;
+using System;
+using System.Data;
+using System.Runtime.CompilerServices;
+
+namespace NeatImplementation {
+    public abstract class Activations
     {
-        public float sigmoid(float x)//activation functions and their corrosponding derivatives
+        //activation functions and their corrosponding derivatives
+        public float sigmoid(float x)
         {
             float k = (float)Math.Exp(x);
             return k / (1.0f + k);

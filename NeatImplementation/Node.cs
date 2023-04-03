@@ -3,11 +3,8 @@ using System.Collections.Generic;
 using System;
 using System.Data;
 using System.Runtime.CompilerServices;
-using Utilities;
 
 namespace NeatImplementation {
-
-
     /// <summary>
     /// The nodex that connect the genes
     /// </summary>

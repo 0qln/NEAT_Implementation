@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System;
 using System.Data;
 using System.Runtime.CompilerServices;
-using Utilities;
 
 namespace NeatImplementation {
     /// <summary>
