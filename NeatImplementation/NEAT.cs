@@ -8,16 +8,16 @@ namespace NeatImplementation {
     /// <summary>
     /// Neural Evolution of Augmenting Topologies
     /// </summary>
-    public class NEAT : Activations {
+    public class NEAT {
         // !Attributes
-        public List<Genome> genomes;
-        public float c1 = 1, c2 = 1, c3 = 1;
-        public const float DISTANCE_THRESHHOLD = 100;
-        public const int KILL_PERCENTAGE = 50;
+        internal List<Genome> genomes;
+        internal float c1 = 1, c2 = 1, c3 = 1;
+        internal const float DISTANCE_THRESHHOLD = 100;
+        internal const int KILL_PERCENTAGE = 50;
 
         // a global array of the Nodes and connections. Each genomes just gets a reference of the objects
-        public Dictionary<(int, int), Connection> allConnections;
-        public HashList<Node> allNodes;
+        internal Dictionary<(int, int), Connection> allConnections;
+        internal HashList<Node> allNodes;
 
         // !Constructor
         /// <summary>
@@ -167,7 +167,7 @@ namespace NeatImplementation {
         /// <param name="genome1"></param>
         /// <param name="genome2"></param>
         /// <returns></returns>
-        public float Distance(Genome genome1, Genome genome2) {
+        internal float Distance(Genome genome1, Genome genome2) {
 
             int highestInnovationNum_g1 = 0;
             int highestInnovationNum_g2 = 0;
@@ -230,7 +230,7 @@ namespace NeatImplementation {
         /// <param name="genome1"></param>
         /// <param name="genome2"></param>
         /// <returns></returns>
-        public Genome Crossover(Genome genome1, Genome genome2) {
+        internal Genome Crossover(Genome genome1, Genome genome2) {
             Genome offspring = new Genome(genome1.inputNodes, genome2.outputNodes, this).Empty();
 
             int index_g1 = 0;

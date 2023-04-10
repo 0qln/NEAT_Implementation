@@ -9,7 +9,7 @@ namespace NeatImplementation {
     /// Contains a HashSet and a List.
     /// </summary>
     /// <typeparam name="Element"></typeparam>
-    public class HashList<Element> {
+    internal class HashList<Element> {
 
         private List<Element> list;
         private HashSet<Element> hashSet;

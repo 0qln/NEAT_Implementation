@@ -8,7 +8,7 @@ namespace NeatImplementation {
     /// <summary>
     /// An extension to the List class, which contains useful methods
     /// </summary>
-    public static class ListHelper {
+    internal static class ListHelper {
         /// <summary>
         /// Uses Fisher�Yates shuffle to randomize the list.
         /// </summary>

@@ -5,9 +5,9 @@ using System.Data;
 using System.Runtime.CompilerServices;
 
 namespace NeatImplementation {
-    public class Species {
-        public float score;
-        public List<Genome> genomes;
+    internal class Species {
+        internal float score;
+        internal List<Genome> genomes;
 
         // !Constructors
         public Species(List<Genome> genomes) {
