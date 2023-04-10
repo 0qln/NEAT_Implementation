@@ -8,7 +8,7 @@ namespace NeatImplementation {
     /// <summary>
     /// The nodex that connect the genes
     /// </summary>
-    public class Node : Activations {
+    public class Node {
         // !Attributes
         public List<Connection> inputConnections;
         public float value;
@@ -47,7 +47,7 @@ namespace NeatImplementation {
                 }
             }
 
-            sum = sigmoid(sum);
+            sum = Activations.sigmoid(sum);
             value = sum;
             isCalculated = true;
             return sum;

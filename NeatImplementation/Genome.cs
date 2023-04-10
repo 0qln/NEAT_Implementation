@@ -8,7 +8,7 @@ namespace NeatImplementation {
     /// <summary>
     /// Genome consisting of Nodes and Genes
     /// </summary>
-    internal class Genome {
+    public class Genome {
         // !Attributes
         private NEAT neat;
         public List<Node> nodes;

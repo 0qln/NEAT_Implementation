@@ -8,7 +8,7 @@ namespace NeatImplementation {
     /// <summary>
     /// The Genes connecting the nodes
     /// </summary>
-    internal class Connection {
+    public class Connection {
         // !Attributes
         public Node in_, out_;
         public int inIndex, outIndex;

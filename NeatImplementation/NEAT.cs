@@ -161,6 +161,11 @@ namespace NeatImplementation {
 
         }
 
+        // TODO
+        public Genome BestGenome() {
+            return genomes[0];
+        }
+
         /// <summary>
         /// Calculates the difference between two genomes.
         /// </summary>
